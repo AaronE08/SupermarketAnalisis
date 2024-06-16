@@ -31,7 +31,7 @@
 
 **Cuenta con 1000 lineas y 11 columnas**
 
-**Hallazgos General y separados por ciudad**
+# Hallazgos General y separados por ciudad**
 
 **General**
 
