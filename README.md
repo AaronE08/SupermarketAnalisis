@@ -1,4 +1,4 @@
-#Analisis de ventas de un supermercado
+# Analisis de ventas de un supermercado
 
 **Bibliotecas usadas**
 - import pandas as pd
@@ -8,6 +8,8 @@
 
 **Direccion de dataset**
 - url = 'https://raw.githubusercontent.com/AaronE08/datasets/main/supermarkets/supermarket.csv'
+
+**Datos del dataset**
 
 - ID de factura: Un identificador único para cada transacción.
 - Sucursal: La tienda o local donde se realizó la transacción.
